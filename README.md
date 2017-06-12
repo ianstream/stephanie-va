@@ -45,6 +45,6 @@ As well as I am not accounted for any 3rd Party Module Installations, so make su
 
 ## install exception
 
-If you get error like this '#include "portaudio.h" find not found', please install portaudio.
-
-
+If you get error..
+when '#include "portaudio.h" file not found' error, install portaudio.
+when '#include "SDL.h" file not found' error, install sdl sdl_image sdl_mixer sdl_ttf portmidi.
