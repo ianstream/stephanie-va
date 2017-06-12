@@ -42,3 +42,9 @@ Created your very own 3rd Party Module and want to share it with the community? 
 Stephanie is covered by the MIT license, a permissive free software license that lets you do anything you want with the source code, as long as you provide back attribution and ["don't hold \[us\] liable"](http://choosealicense.com). For the full license text see the [LICENSE.md](LICENSE.md) file.
 
 As well as I am not accounted for any 3rd Party Module Installations, so make sure they are legit before installing it, as I will not be liable for any kind of damage in terms of virus/data leak or whatnot.
+
+## install exception
+
+If you get error like this '#include "portaudio.h" find not found', please install portaudio.
+
+
